@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/K-SindhuRani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0415-add-strings](https://github.com/K-SindhuRani/LeetCode/tree/master/0415-add-strings) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/K-SindhuRani/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/K-SindhuRani/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/K-SindhuRani/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Sliding Window
 |  |
@@ -81,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/K-SindhuRani/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/K-SindhuRani/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/K-SindhuRani/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
