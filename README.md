@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0948-sort-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/K-SindhuRani/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/K-SindhuRani/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3321-type-of-triangle](https://github.com/K-SindhuRani/LeetCode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/K-SindhuRani/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0415-add-strings](https://github.com/K-SindhuRani/LeetCode/tree/master/0415-add-strings) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/K-SindhuRani/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/K-SindhuRani/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Sliding Window
 |  |
 | ------- |
