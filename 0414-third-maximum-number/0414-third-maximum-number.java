@@ -1,17 +1,17 @@
 class Solution {
     public int thirdMax(int[] nums){
-    TreeSet<Integer> set = new TreeSet<>();
-    for(int i:nums){
-        set.add(i);
+    Arrays.sort(nums);
+    int count =1;
+    int current = nums[nums.length-1];
+    for(int i=nums.length-2;i>=0;i--){
+        if(nums[i]!=current){
+            current = nums[i];
+            count++;
+            if(count==3){
+                return current;
+            }
+        }
     }
-    if(set.size()>=3) {
-        Iterator<Integer> it = set.descendingIterator();
-        it.next();
-        it.next();
-        return it.next();
+    return nums[nums.length-1];
     }
-    else 
-        return set.last();
-    } 
 }
-    
