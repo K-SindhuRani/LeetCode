@@ -81,20 +81,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/K-SindhuRani/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/K-SindhuRani/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/K-SindhuRani/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/K-SindhuRani/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/K-SindhuRani/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
