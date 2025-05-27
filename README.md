@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/K-SindhuRani/LeetCode/tree/master/0415-add-strings) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/K-SindhuRani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/K-SindhuRani/LeetCode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
