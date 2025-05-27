@@ -1,26 +1,16 @@
 public class Solution {
     public int[] twoSum(int[] numbers, int target) {    
-        
-            int len = numbers.length;
-
-        int[] result = new int[2] ;
-        int number1 = 0;
-        int sum = 0;
-
-        for (int i = 0; i < len; i++) {
-            number1 = numbers[i];
-
-            for(int j = i+1; j < len; j++)
-            {
-                sum = number1+numbers[j];       
-                if(sum == target)
-                {
-                    result[0]=i;
-                    result[1]=j;
+        int arr[] = new int[2];
+        //brute force method
+        for(int i=0;i< numbers.length-1;i++){
+        for(int j=i+1;j< numbers.length;j++){
+            int sum = numbers[i]+numbers[j];
+                if(sum==target){
+                    arr[0]=i;
+                    arr[1]=j;
                 }
-            }
-        
         }
-        return result;
+        }
+        return arr;
     }
 }
