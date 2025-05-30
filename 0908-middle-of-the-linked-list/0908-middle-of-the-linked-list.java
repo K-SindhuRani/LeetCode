@@ -13,7 +13,7 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
         ListNode current = head;
-        int size = 0;
+        int size = 1;
         while(current.next!=null){
             current = current.next;
             size++;
@@ -22,7 +22,7 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-        if(size % 2 == 0)
+        if(size % 2 != 0)
            return slow;
         else   
            return slow.next;
