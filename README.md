@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/K-SindhuRani/LeetCode/tree/master/0415-add-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-SindhuRani/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/K-SindhuRani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/K-SindhuRani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/K-SindhuRani/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-SindhuRani/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
