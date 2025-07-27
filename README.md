@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/K-SindhuRani/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/K-SindhuRani/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/K-SindhuRani/LeetCode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-SindhuRani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0948-sort-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0948-sort-an-array) |
 | [3321-type-of-triangle](https://github.com/K-SindhuRani/LeetCode/tree/master/3321-type-of-triangle) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/K-SindhuRani/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
