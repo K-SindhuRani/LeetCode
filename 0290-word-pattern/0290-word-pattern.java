@@ -1,18 +1,18 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
-        HashMap<Character,Integer> map1 = new HashMap<>();
-        HashMap<String,Integer> map2 = new HashMap<>();
+        HashMap<Character,String> map1 = new HashMap<>();
+        HashMap<String,Character> map2 = new HashMap<>();
         String words[] = s.split(" ");
         if(pattern.length()!=words.length){
             return false;
         }
-        for(Integer i=0;i<pattern.length();i++){
+       /* for(Integer i=0;i<pattern.length();i++){
             if(map1.put(pattern.charAt(i),i)!=map2.put(words[i],i))
               return false;
         }
-        return true;
+        return true;*/
 
-        /*for(int i=0;i<pattern.length();i++){
+        for(int i=0;i<pattern.length();i++){
             char c = pattern.charAt(i);
             String str = words[i];
             if(map1.containsKey(c)){
@@ -32,6 +32,6 @@ class Solution {
             }
             map2.put(str,c);
         }
-        return true;*/
+        return true;
     }
 }
