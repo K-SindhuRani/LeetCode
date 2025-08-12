@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/K-SindhuRani/LeetCode/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-SindhuRani/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/K-SindhuRani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/K-SindhuRani/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/K-SindhuRani/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/K-SindhuRani/LeetCode/tree/master/0409-longest-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
