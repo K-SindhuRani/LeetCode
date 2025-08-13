@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/K-SindhuRani/LeetCode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/K-SindhuRani/LeetCode/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-SindhuRani/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/K-SindhuRani/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/K-SindhuRani/LeetCode/tree/master/0326-power-of-three) |
 ## Design
 |  |
 | ------- |
