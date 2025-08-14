@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/K-SindhuRani/LeetCode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/K-SindhuRani/LeetCode/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/K-SindhuRani/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
