@@ -216,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/K-SindhuRani/LeetCode/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/K-SindhuRani/LeetCode/tree/master/0577-employee-bonus) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/K-SindhuRani/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
