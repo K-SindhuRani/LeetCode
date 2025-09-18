@@ -1,0 +1,2 @@
+select class FROM COURSES 
+GROUP BY class HAVING COUNT(student) >=5;
