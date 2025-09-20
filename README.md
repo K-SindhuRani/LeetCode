@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/K-SindhuRani/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-SindhuRani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/K-SindhuRani/LeetCode/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0414-third-maximum-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/K-SindhuRani/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/K-SindhuRani/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/K-SindhuRani/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/K-SindhuRani/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/K-SindhuRani/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/K-SindhuRani/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/K-SindhuRani/LeetCode/tree/master/0409-longest-palindrome) |
 ## Bit Manipulation
 |  |
