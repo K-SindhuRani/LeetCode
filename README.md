@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/K-SindhuRani/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/K-SindhuRani/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0948-sort-an-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0948-sort-an-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/K-SindhuRani/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/K-SindhuRani/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
