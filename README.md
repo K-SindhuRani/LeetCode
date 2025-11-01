@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/K-SindhuRani/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K-SindhuRani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/K-SindhuRani/LeetCode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0229-majority-element-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/K-SindhuRani/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/K-SindhuRani/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0263-ugly-number) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/K-SindhuRani/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/K-SindhuRani/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/K-SindhuRani/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
