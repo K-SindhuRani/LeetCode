@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/K-SindhuRani/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/K-SindhuRani/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/K-SindhuRani/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/K-SindhuRani/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/K-SindhuRani/LeetCode/tree/master/0415-add-strings) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/K-SindhuRani/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/K-SindhuRani/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/K-SindhuRani/LeetCode/tree/master/0342-power-of-four) |
 ## Design
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/K-SindhuRani/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/K-SindhuRani/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/K-SindhuRani/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Monotonic Stack
 |  |
