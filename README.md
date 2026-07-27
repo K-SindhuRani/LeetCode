@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/K-SindhuRani/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0948-sort-an-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0948-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/K-SindhuRani/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/K-SindhuRani/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/K-SindhuRani/LeetCode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/K-SindhuRani/LeetCode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/K-SindhuRani/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/K-SindhuRani/LeetCode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/K-SindhuRani/LeetCode/tree/master/0948-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/K-SindhuRani/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3321-type-of-triangle](https://github.com/K-SindhuRani/LeetCode/tree/master/3321-type-of-triangle) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/K-SindhuRani/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/K-SindhuRani/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/K-SindhuRani/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K-SindhuRani/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/K-SindhuRani/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
